@@ -19,7 +19,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 ---
 ## 2020
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460273.pdf)] Conditional Convolutions for Instance Segmentation. [[pytorch](https://github.com/aim-uofa/AdelaiDet)] [__`img.`__] :sunflower:
-- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460307.pdf)] Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset. [[tensorflow](hhttps://fashionpedia.github.io/home/Model_and_API.html)] [__`img.`__] :hospital:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460307.pdf)] Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset. [[tensorflow](https://fashionpedia.github.io/home/Model_and_API.html)] [__`img.`__] :hospital:
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480562.pdf)] A General Toolbox for Identifying Object Detection Errors. [[code](https://github.com/dbolya/tide)] [__`img.`__] :sunflower:
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510205.pdf)] The Semantic Mutex Watershed for Efficient
 Bottom-Up Semantic Instance Segmentation. [__`img.`__] :sunflower:
