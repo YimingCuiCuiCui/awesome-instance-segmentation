@@ -55,9 +55,14 @@ Bottom-Up Semantic Instance Segmentation. [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_Video_Instance_Segmentation_Tracking_With_a_Modified_VAE_Architecture_CVPR_2020_paper.html)] Video Instance Segmentation Tracking with a Modified VAE Architecture. [__`vid.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Learning_Saliency_Propagation_for_Semi-Supervised_Instance_Segmentation_CVPR_2020_paper.html)] Learning Saliency Propagation for Semi-Supervised Instance Segmentation. [[pytorch](https://github.com/ucbdrive/ShapeProp)] [__`oth.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Unsupervised_Instance_Segmentation_in_Microscopy_Images_via_Panoptic_Domain_Adaptation_CVPR_2020_paper.html)] Unsupervised Instance Segmentation in Microscopy Images via Panoptic Domain Adaptation and Task Re-Weighting. [__`oth.`__] :hospital:
-- [[AAAI](https://arxiv.org/abs/1912.05070)] RDSNet: A New Deep Architecture forReciprocal Object Detection and Instance Segmentation. [[pytorch](https://github.com/wangsr126/RDSNet)] [__`img.`__] :sunflower:
+- [[AAAI](https://arxiv.org/abs/1912.05070)] RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation. [[pytorch](https://github.com/wangsr126/RDSNet)] [__`img.`__] :sunflower:
 - [[AAAI](https://arxiv.org/abs/1911.09199)] Object-Guided Instance Segmentation for Biological Images.  [__`img.`__] :hospital:
-- [[AAAI](https://arxiv.org/abs/1912.09654)] JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds. [[tensorflow](https://github.com/dlinzhao/JSNet)] [__`points.`__]
+- [[AAAI](https://arxiv.org/abs/1912.09654)] JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds. [[tensorflow](https://github.com/dlinzhao/JSNet)] [__`point.`__]
 
 ---
 ## 2019
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/html/Lei_Octree_Guided_CNN_With_Spherical_Kernels_for_3D_Point_Clouds_CVPR_2019_paper.html)] Octree Guided CNN With Spherical Kernels for 3D Point Clouds. [[tensorflow](https://github.com/hlei-ziyan/SPH3D-GCN)] [__`point.`__]
+- [[CVPR](https://arxiv.org/abs/1904.00699)] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields. [[pytorch](https://github.com/pqhieu/JSIS3D)] [__`point.`__]
+- [[CVPR](https://arxiv.org/abs/1902.09852)] Associatively Segmenting Instances and Semantics in Point Clouds. [[tensorflow](https://github.com/WXinlong/ASIS)] [__`point.`__]
+- [[CVPR](https://arxiv.org/abs/1812.07003)] 3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans. [[pytorch](https://github.com/Sekunde/3D-SIS)] [__`point.`__]
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_GSPN_Generative_Shape_Proposal_Network_for_3D_Instance_Segmentation_in_CVPR_2019_paper.pdf)] GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud. [[tensorflow](hhttps://github.com/ericyi/GSPN)] [__`point.`__]
