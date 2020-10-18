@@ -46,7 +46,7 @@ Bottom-Up Semantic Instance Segmentation. [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Han_OccuSeg_Occupancy-Aware_3D_Instance_Segmentation_CVPR_2020_paper.html)] OccuSeg: Occupancy-Aware 3D Instance Segmentation. [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.html)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving.  [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Engelmann_3D-MPA_Multi-Proposal_Aggregation_for_3D_Semantic_Instance_Segmentation_CVPR_2020_paper.html)] PolyTransform: Deep Polygon Transformer for Instance Segmentation. [__`point.`__]
-- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.html)] 3D-MPA: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation. [__`point.`__]
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.html)] 3D-MPA: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation. [[tensorflow](https://github.com/francisengelmann/3D-MPA)] [__`point.`__]
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_End-to-End_3D_Point_Cloud_Instance_Segmentation_Without_Detection_CVPR_2020_paper.html)] End-to-End 3D Point Cloud Instance Segmentation Without Detection.  [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.html)] Density-Based Clustering for 3D Object Detection in Point Clouds. [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_FGN_Fully_Guided_Network_for_Few-Shot_Instance_Segmentation_CVPR_2020_paper.html)] FGN: Fully Guided Network for Few-Shot Instance Segmentation. [__`shot.`__] 
@@ -57,7 +57,7 @@ Bottom-Up Semantic Instance Segmentation. [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Unsupervised_Instance_Segmentation_in_Microscopy_Images_via_Panoptic_Domain_Adaptation_CVPR_2020_paper.html)] Unsupervised Instance Segmentation in Microscopy Images via Panoptic Domain Adaptation and Task Re-Weighting. [__`oth.`__] :hospital:
 - [[AAAI](https://arxiv.org/abs/1912.05070)] RDSNet: A New Deep Architecture forReciprocal Object Detection and Instance Segmentation. [[pytorch](https://github.com/wangsr126/RDSNet)] [__`img.`__] :sunflower:
 - [[AAAI](https://arxiv.org/abs/1911.09199)] Object-Guided Instance Segmentation for Biological Images.  [__`img.`__] :hospital:
-- [[AAAI](https://arxiv.org/abs/1912.09654)] OJSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds. [[tensorflow](https://github.com/dlinzhao/JSNet)] [__`points.`__] :hospital:
+- [[AAAI](https://arxiv.org/abs/1912.09654)] JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds. [[tensorflow](https://github.com/dlinzhao/JSNet)] [__`points.`__]
 
 ---
 ## 2019
